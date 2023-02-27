@@ -17,4 +17,5 @@ install modules:
 - change token in __main__.py
 - make your own json files, located outside main folder
 - execute the code
+`python -m main`
 
